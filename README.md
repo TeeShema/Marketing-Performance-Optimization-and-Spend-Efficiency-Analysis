@@ -5,6 +5,20 @@ Using funnel, campaign, platform, audience, content, and engagement data, the an
 
 <img width="1217" height="689" alt="image" src="https://github.com/user-attachments/assets/a732c543-7d90-40c9-94a5-fcaac4b0d59d" />
 
+**TABLE OF CONTENTS**
+
+- [BUSINESS PROBLEM](#BUSINESS-PROBLEM)
+- [THE NEED TO ACT](#THE-NEED-TO-ACT)
+- [BUSINESS OBJECTIVES](#BUSINESS-OBJECTIVES)
+- ANALYSIS & INSIGHTS
+     - [Insight 1](#Insight-1)
+     - [Insight 2](#Insight-2)
+     - [Insight 3](#Insight-3)
+     - [Insight 4](#Insight-4)
+     - [Insight 5](#Insight-5)
+     - [Insight 6](#Insight-6)
+- [RECOMMENDATIONS](#RECOMMENDATIONS)
+- [CONCLUSION](#conclusion)
  
 # Business Problem
 Despite strong brand reach and multiple active campaigns, the business lacked clarity on which marketing efforts were truly driving value.
