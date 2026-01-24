@@ -72,7 +72,7 @@ The objectives of this analysis were to:
 
 # ANALYSIS & INSIGHTS
  
-# Insight-1 
+# Insight 1 
 **Funnel Scale Is Strong, but Efficiency Is the Bottleneck**
 
 <img width="523" height="428" alt="image" src="https://github.com/user-attachments/assets/576fc05a-8755-4ae0-b728-e0310f854096" />
@@ -89,7 +89,7 @@ At this scale, a 1% improvement in conversion rate would unlock 3,000–4,000 ad
 •	Align ad copy more tightly with landing page intent.
 
 
-# Insight 2:  
+# Insight 2  
 **ROI Improved Year-over-Year, Reflecting Smarter Execution**
  
 <img width="899" height="477" alt="image" src="https://github.com/user-attachments/assets/3d7b2e47-74f1-42a3-95c0-2cfebe24b62e" />
