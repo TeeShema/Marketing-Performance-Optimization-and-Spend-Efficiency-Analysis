@@ -6,9 +6,13 @@ Using funnel, campaign, platform, audience, content, and engagement data, the an
 # Business Problem
 Despite strong brand reach and multiple active campaigns, the business lacked clarity on which marketing efforts were truly driving value.
 Key challenges included:
+
 •	High impressions but inconsistent conversion outcomes
+
 •	Marketing spend is distributed evenly without clear ROI prioritization
+
 •	Engagement metrics available, but weak connection to revenue impact
+
 •	Limited insight into how platform, audience, content, and timing interact
 
 Without a structured performance analysis, marketing decisions risked being driven by assumptions rather than evidence, leading to inefficient spend and missed growth opportunities.
@@ -16,22 +20,32 @@ Without a structured performance analysis, marketing decisions risked being driv
 # The Need to Act
 Continuing to distribute budget evenly across campaigns, platforms, and audiences risks:
 •	Overinvesting in high-engagement but low-return activities
+
 •	Underscaling high-ROI platforms and audiences
+
 •	Leaving conversion growth unrealized despite strong reach
+
 Acting on these insights enables the business to increase ROI without increasing spend, improving both efficiency and predictability of marketing outcomes.
 
 # Business Objectives
 The objectives of this analysis were to:
 •	Assess funnel efficiency from impressions to conversions
+
 •	Identify high-ROI campaigns and underperforming initiatives
+
 •	Evaluate platform and audience profitability, not just engagement
+
 •	Understand how content type, theme, and timing affect performance
+
 •	Translate insights into actionable recommendations to improve marketing efficiency
 
 # Key Business Questions
 1.	Where are users dropping off in the marketing funnel?
+
 2.	Which campaigns generate the highest return relative to cost?
+
 3.	Which platforms deliver the strongest balance of CPA and ROAS?
+
 4.	Which audiences are most profitable across platforms?
 5.	What content formats, themes, and posting times drive the best engagement and support conversions?
 
@@ -39,6 +53,7 @@ The objectives of this analysis were to:
  
 # Insight-1 
 **Funnel Scale Is Strong, but Efficiency Is the Bottleneck**
+
 <img width="523" height="428" alt="image" src="https://github.com/user-attachments/assets/576fc05a-8755-4ae0-b728-e0310f854096" />
 
 The marketing funnel generated 12.2M impressions, resulting in 319,458 clicks (≈ 2.6% CTR) and 39,697 conversions (≈ 12.4% CVR from click to conversion).
@@ -55,7 +70,8 @@ At this scale, a 1% improvement in conversion rate would unlock 3,000–4,000 ad
 
 # Insight 2:  
 **ROI Improved Year-over-Year, Reflecting Smarter Execution**
- <img width="899" height="477" alt="image" src="https://github.com/user-attachments/assets/3d7b2e47-74f1-42a3-95c0-2cfebe24b62e" />
+ 
+<img width="899" height="477" alt="image" src="https://github.com/user-attachments/assets/3d7b2e47-74f1-42a3-95c0-2cfebe24b62e" />
 
 Year-over-year analysis shows a clear improvement in efficiency from 2024 to 2025.
 •	Average ROAS increased from the low–mid 40s in early 2024 to 50+ consistently in 2025
@@ -66,16 +82,21 @@ Performance gains were driven by optimization (targeting, creative, and allocati
 
 **Recommendations:**
 •	Use high-performing 2025 campaigns as benchmarks
+
 •	Document and standardize targeting and creative strategies that drove ROAS gains
+
 •	Shift budget toward months and tactics with proven YoY efficiency
 
 
 # Insight 3
 **Campaign Performance Is Driven by Intent, Not Volume**
- <img width="975" height="376" alt="image" src="https://github.com/user-attachments/assets/3af8e8ab-0257-43e8-bd95-acd0d21a78ad" />
+ 
+<img width="975" height="376" alt="image" src="https://github.com/user-attachments/assets/3af8e8ab-0257-43e8-bd95-acd0d21a78ad" />
 
 Intent-driven seasonal campaigns clearly outperformed generic or low-intent initiatives.
+
 •	Back-to-School ’25: CPA: $1.48, ROAS: 55
+
 •	Fall Campaign ’25: CPA: $1.41 (lowest overall), ROAS: 54
 
 In contrast:
@@ -83,41 +104,52 @@ In contrast:
 
 Across almost every campaign type, 2025 versions outperformed their 2024 counterparts, with ROAS improvements of 2–6 points per campaign.
 Campaign success is driven by user intent and timing, not exposure volume alone.
+
 **Recommendations:**
 •	Prioritize seasonal and intent-led campaigns in budget planning
+
 •	Reduce spend on campaigns that generate volume without proportional revenue
+
 •	Time campaign launches around high-intent user behavior windows
 
 
 # Insight 4
 **Instagram and LinkedIn Deliver the Highest Value per Dollar**
- <img width="613" height="348" alt="image" src="https://github.com/user-attachments/assets/b0b7c30f-0e73-45bc-8f68-a17dc0d2e44e" />
+ 
+<img width="613" height="348" alt="image" src="https://github.com/user-attachments/assets/b0b7c30f-0e73-45bc-8f68-a17dc0d2e44e" />
 
 While CPA differences across platforms were relatively narrow (approximately $1.41–$1.70), ROAS revealed clear performance gaps.
 •	Instagram & LinkedIn: Highest ROAS with competitive CPA
+
 •	TikTok: Lower CPA, but consistently weaker ROAS, indicating lower revenue per conversion
+
 •	Facebook & X: Stable performance, but limited upside at scale
 
 A low CPA does not guarantee profitability; ROAS is the true indicator of platform value.
 
 **Recommendations:**
 •	Reallocate budget toward platforms with strong ROAS(Instagram and LinkedIn), not just low CPA
+
 •	Use TikTok and similar platforms for upper-funnel awareness, not revenue-heavy goals
+
 •	Track platform performance using CPA + ROAS together, not in isolation 
 
 
 # Insight 5
 **Audience Profitability Is Strongest Among Life-Stage Segments**
- <img width="792" height="523" alt="image" src="https://github.com/user-attachments/assets/65073c8d-c4b3-4d9e-893f-ceedead902e8" />
-<img width="792" height="523" alt="image" src="https://github.com/user-attachments/assets/5472b569-4359-4b9c-bd93-f44a5ca71bc8" />
 
+<img width="792" height="523" alt="image" src="https://github.com/user-attachments/assets/65073c8d-c4b3-4d9e-893f-ceedead902e8" />
+ 
 Audience-level performance showed clear differences in profitability.
 •	Gen X & Parents: Highest ROAS across platforms
+
 •	Professionals: Highest CPA and lowest ROAS, despite strong engagement
+
 •	Millennials & Gen Z: Consistent mid-range performance with predictable outcomes
 
 **Recommendations:**
 •	Scale Gen X and Parent audiences on high-performing platforms (e.g., Instagram)
+
 •	Narrow Professional targeting to high-intent use cases
 
 
@@ -126,27 +158,35 @@ Audience-level performance showed clear differences in profitability.
 
 Content analysis revealed:
 •	Stories, Carousels, and Reels drive the highest engagement
+
 <img width="489" height="347" alt="image" src="https://github.com/user-attachments/assets/83f7538b-e2de-498b-9f53-c943df1c3892" />
 
 •	Behind-the-scenes and lifestyle content perform best for interaction
- <img width="680" height="377" alt="image" src="https://github.com/user-attachments/assets/e334325a-95fa-4037-a07a-adc808dc6459" />
+ 
+<img width="680" height="377" alt="image" src="https://github.com/user-attachments/assets/e334325a-95fa-4037-a07a-adc808dc6459" />
 
 Timing analysis showed clear engagement peaks on Monday mornings and Saturday mid-day, while late-night posting consistently underperformed.
- <img width="975" height="300" alt="image" src="https://github.com/user-attachments/assets/6cf9ca99-0d55-4e10-9126-5621ea6f3416" />
+ 
+<img width="975" height="300" alt="image" src="https://github.com/user-attachments/assets/6cf9ca99-0d55-4e10-9126-5621ea6f3416" />
 
 This confirms that engagement is driven by content × format × timing, not content alone.
 
 **Recommendations:**
 •	Separate Engagement and Conversion Strategies
 Use Stories, Carousels, and Reels for awareness and warming audiences, while relying on promotions, product launches, and value-driven messaging for conversion-focused goals.
+
 •	Optimize Posting Schedule
+
 • Concentrate posting during proven high-engagement windows and reduce activity during low-performing periods to improve efficiency.
 
  
 **Expected Impact:**
 •	Higher ROAS without increased spend
+
 •	Reduced budget waste
+
 •	Stronger funnel progression
+
 •	More predictable campaign performance
 
 
