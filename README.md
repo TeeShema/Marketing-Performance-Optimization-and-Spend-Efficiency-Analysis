@@ -226,7 +226,7 @@ Use Stories, Carousels, and Reels for awareness and warming audiences, while rel
 
 **In Summary**, this project evaluated end-to-end marketing performance across 12M+ impressions, multiple campaigns, platforms, audiences, and content strategies to understand what truly drives ROI and where marketing spend is being wasted.
 
-By analyzing funnel metrics, ROAS, CPA, engagement rates, and conversion performance, the analysis moved beyond surface-level reporting to uncover actionable insights across the full customer journey — from awareness to conversion.
+By analyzing funnel metrics, ROAS, CPA, engagement rates, and conversion performance, the analysis moved beyond surface-level reporting to uncover actionable insights across the full customer journey, from awareness to conversion.
 
 The findings revealed that:
 
@@ -239,8 +239,6 @@ The findings revealed that:
 •	Campaign performance varies significantly: A small number of campaigns deliver the majority of returns, while others operate at high CPA with weak ROAS, pulling down overall efficiency.
 
 •	Platforms contribute differently to performance: Instagram drives higher overall ROAS, while LinkedIn delivers stronger cost efficiency (lower CPA). Performance depends on platform role rather than volume alone.
-
-•	Audience performance is platform-dependent: The same audience segments perform very differently across platforms, confirming that targeting effectiveness depends on where the audience is reached.
 
 •	Content format and timing materially affect engagement: Interactive formats (Stories, Carousels, Reels) outperform static content, and engagement varies by posting time, showing that content strategy directly influences funnel performance.
 
