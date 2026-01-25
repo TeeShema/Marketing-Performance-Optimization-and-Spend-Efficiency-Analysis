@@ -81,9 +81,10 @@ The marketing funnel generated 12.2M impressions, resulting in 319,458 clicks (�
 While awareness is strong, over 87% of users who clicked did not convert, indicating significant mid-funnel leakage. 
 The business is paying primarily for visibility, not outcomes. 
 Awareness is not the bottleneck; conversion efficiency is.
-At this scale, a 1% improvement in conversion rate would unlock 3,000–4,000 additional conversions without increasing spend.
+At this scale, a 1% improvement in conversion rate would unlock 3,000-4,000 additional conversions without increasing spend.
 
 **Recommendations:**
+
 •	Optimize landing pages and post-click experience (page speed, messaging clarity, CTA alignment).
 
 •	Align ad copy more tightly with landing page intent.
@@ -127,8 +128,9 @@ In contrast:
 
 •	Spring Campaign ’24 recorded the lowest ROAS at 43, despite a solid 12.57% conversion rate, signaling inefficient spend rather than weak demand.
 
-Across almost every campaign type, 2025 versions outperformed their 2024 counterparts, with ROAS improvements of 2–6 points per campaign.
+Across almost every campaign type, 2025 versions outperformed their 2024 counterparts, with ROAS improvements of 2-6 points per campaign.
 Campaign success is driven by user intent and timing, not exposure volume alone.
+Intent-driven seasonal campaigns significantly outperformed generic initiatives because they targeted users with immediate needs and high purchase readiness, resulting in higher ROAS despite similar traffic volume.
 
 **Recommendations:**
 
@@ -144,7 +146,7 @@ Campaign success is driven by user intent and timing, not exposure volume alone.
  
 <img width="613" height="348" alt="image" src="https://github.com/user-attachments/assets/b0b7c30f-0e73-45bc-8f68-a17dc0d2e44e" />
 
-While CPA differences across platforms were relatively narrow (approximately $1.41–$1.70), ROAS revealed clear performance gaps.
+While CPA differences across platforms were relatively narrow (approximately $1.41-$1.70), ROAS revealed clear performance gaps.
 
 •	Instagram & LinkedIn: Highest ROAS with competitive CPA.
 
