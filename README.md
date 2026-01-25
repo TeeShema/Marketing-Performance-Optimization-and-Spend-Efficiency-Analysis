@@ -230,13 +230,19 @@ By analyzing funnel metrics, ROAS, CPA, engagement rates, and conversion perform
 
 The findings revealed that:
 
-• Strong reach alone does not guarantee results
+•	Marketing reach is strong, but conversion efficiency is low: Over 12.1 million impressions generated only 39,697 conversions, revealing that awareness is not the bottleneck. The largest opportunity lies in improving mid- and bottom-funnel performance.
 
-• Intent-driven campaigns consistently outperform volume-driven ones
+•	Marketing efficiency improved year-over-year: Monthly ROAS in early 2025 consistently outperformed 2024, indicating better optimization and targeting. However, late-2024 ROAS spikes suggest seasonality rather than repeatable performance.
 
-• Platform and audience profitability varies significantly, even when CPAs appear similar
+•	Higher ad spend does not guarantee proportional revenue growth: The spend-to-revenue relationship shows diminishing returns at higher spend levels, signaling the need for efficiency-driven scaling rather than budget inflation.
 
-• Engagement performance is highly dependent on format, theme, and timing, not content quality alone
+•	Campaign performance varies significantly: A small number of campaigns deliver the majority of returns, while others operate at high CPA with weak ROAS, pulling down overall efficiency.
+
+•	Platforms contribute differently to performance: Instagram drives higher overall ROAS, while LinkedIn delivers stronger cost efficiency (lower CPA). Performance depends on platform role rather than volume alone.
+
+•	Audience performance is platform-dependent: The same audience segments perform very differently across platforms, confirming that targeting effectiveness depends on where the audience is reached.
+
+•	Content format and timing materially affect engagement: Interactive formats (Stories, Carousels, Reels) outperform static content, and engagement varies by posting time, showing that content strategy directly influences funnel performance.
 
 Most importantly, this project demonstrated how data-driven decision-making can unlock more revenue without increasing marketing spend.
 
