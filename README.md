@@ -221,9 +221,8 @@ This confirms that engagement is driven by content × format × timing, not cont
 **Recommendations:**
 
 •	Separate Engagement and Conversion Strategies
-Use Stories, Carousels, and Reels for awareness and warming audiences, while relying on promotions, product launches, and value-driven messaging for conversion-focused goals.
 
-•	Optimize Posting Schedule.
+Use Stories, Carousels, and Reels for awareness and warming audiences, while relying on promotions, product launches, and value-driven messaging for conversion-focused goals.
 
 • Concentrate posting during proven high-engagement windows and reduce activity during low-performing periods to improve efficiency.
 
