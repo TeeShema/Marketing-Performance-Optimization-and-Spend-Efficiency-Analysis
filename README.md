@@ -96,6 +96,8 @@ Once users click, conversion performance is relatively healthy.
 
 The data shows that creative relevance, targeting, and message-intent alignment are higher-impact levers than landing-page optimization at this stage.
 
+At this scale, increasing CTR from 2.6% to just 3.1% would generate roughly 60,000 additional clicks, without increasing spend.
+
 **Recommendations:**
 
 • Focus on improving Engagement/Click-Through Rates, not conversions: With a strong post-click conversion rate (~12%), the biggest opportunity is reducing the sharp drop from impressions to clicks by improving ad relevance and engagement.
@@ -113,8 +115,8 @@ Year-over-year analysis shows a clear improvement in efficiency from 2024 to 202
 
 •	Top-performing 2025 campaigns recorded ROAS values between 52 and 55, compared to 43–53 in 2024.
 
-This improvement occurred without a dramatic drop in CPA, indicating better execution rather than reduced spending.
-Performance gains were driven by optimization (targeting, creative, and allocation) rather than seasonality alone.
+This improvement suggests optimizations made over time are working. 
+
 
 **Recommendations:**
 
