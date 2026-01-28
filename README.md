@@ -212,9 +212,9 @@ Content analysis revealed:
  
 <img width="680" height="377" alt="image" src="https://github.com/user-attachments/assets/e334325a-95fa-4037-a07a-adc808dc6459" />
 
-Timing analysis showed clear engagement peaks on Monday mornings and Saturday mid-day, while late-night posting consistently underperformed.
+Timing analysis showed clear engagement peaks on Monday mornings and Saturday afternoon and late night, Sunday aftenoon and latenight.
  
-<img width="975" height="300" alt="image" src="https://github.com/user-attachments/assets/6cf9ca99-0d55-4e10-9126-5621ea6f3416" />
+<img width="1094" height="338" alt="image" src="https://github.com/user-attachments/assets/4bacd0ee-39be-40d7-b114-574d0533f360" />
 
 This confirms that engagement is driven by content × format × timing, not content alone.
 
