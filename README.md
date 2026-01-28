@@ -77,18 +77,29 @@ The objectives of this analysis were to:
 
 <img width="523" height="428" alt="image" src="https://github.com/user-attachments/assets/576fc05a-8755-4ae0-b728-e0310f854096" />
 
-The marketing funnel generated 12.2M impressions, resulting in 319,458 clicks (≈ 2.6% CTR) and 39,697 conversions (≈ 12.4% CVR from click to conversion).
-While awareness is strong, over 87% of users who clicked did not convert, indicating significant mid-funnel leakage. 
-The business is paying primarily for visibility, not outcomes. 
-Awareness is not the bottleneck; conversion efficiency is.
-At this scale, a 1% improvement in conversion rate would unlock 3,000-4,000 additional conversions without increasing spend.
+ 
+The primary bottleneck in the funnel occurs at the top: from impressions to clicks which means reach is not the bottleneck, engagement(click) is
+ 
+12.2M impressions → 319K clicks
+→ CTR ≈ 2.6%
+
+319K clicks → 39.7K conversions
+→ CVR ≈ 12.4%
+
+This indicates:
+
+• Reach and awareness are strong
+
+• User engagement (click intent) is the main constraint
+
+Once users click, conversion performance is relatively healthy
+
+The data shows that creative relevance, targeting, and message-intent alignment are higher-impact levers than landing-page optimization at this stage.
 
 **Recommendations:**
-
-•	Optimize landing pages and post-click experience (page speed, messaging clarity, CTA alignment).
-
-•	Align ad copy more tightly with landing page intent.
-
+• Focus on improving Engagement/Click-Through Rates, not conversions: With a strong post-click conversion rate (~12%), the biggest opportunity is reducing the sharp drop from impressions to clicks by improving ad relevance and engagement.
+ 
+• Optimize creatives for platform and funnel stage. Use hook-led, curiosity-driven messaging for awareness and platform-native formats to increase click-through rates without increasing spend.
 
 # Insight 2  
 **ROI Improved Year-over-Year, Reflecting Smarter Execution**
